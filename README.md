@@ -1,1 +1,1 @@
-User registration with account details
+ User registration allows students to create accounts to access the campus lost and found system.
